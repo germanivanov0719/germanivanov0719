@@ -1,4 +1,4 @@
-> **This menu is being redisigned now.** <br />
+> **This menu is being redesigned now.** <br />
 > You can view the old version, or come back in a couple of days.
 
 # About me
