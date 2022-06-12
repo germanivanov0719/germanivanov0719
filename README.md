@@ -1,7 +1,11 @@
 # About me
-My name is German and I'm a student in Russia. I love programming, and also I can speak English fluently. 
+My name is German and I'm a student in Russia. I love programming, and also I can speak English fluently.
+## My Achievements
+Will be added soon
 ## My Projects
-...
+- [Cryptography App](https://github.com/germanivanov0719/Cryptography) (PyQt)
+- [Racing](https://github.com/germanivanov0719/Racing) (Pygame)
+More will be added later. 
 ## Languages and Frameworks (sorted by my knowledge)
 ### Good Level
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Icon" width=40px >](https://python.org)
