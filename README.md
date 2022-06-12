@@ -1,5 +1,5 @@
 > **This page just got redesigned.** <br />
-> If you have any questions or suggestions, contant me or create an issue.
+> If you have any questions or suggestions, [contant me](#contact-me-envelope) or [create an issue](https://github.com/germanivanov0719/germanivanov0719/issues).
 
 > **On a vacation untill Jun 17, 2022** <br />
 > I might often be offline, but you can always just leave me an email.
