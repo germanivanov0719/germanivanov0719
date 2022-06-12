@@ -49,9 +49,6 @@ More will be added later.
 [<img src="src/csharp-original.svg" alt="CSharp Icon" width=40px>](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [<img src="src/dot-net-original-wordmark.svg" alt=".NET Icon" width=40px>](https://dotnet.microsoft.com/en-us/)
 
-<!-- ## About my projects
-
-Most of my projects are currently frozen. All web projects would, hopefully, get finished during the 2022 summer. C# projects aren't longer maintained, but some updates might be published later (expect spring–fall 2022). Projects with "Yandex" in their names would all be available under MIT/Apache2 license and renamed to their official names untill the summer of 2022. -->
 
 ## Contact me :envelope:
 
