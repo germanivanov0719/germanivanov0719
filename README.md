@@ -1,4 +1,4 @@
-> **This menu is being redisigned now.** <br/>
+> **This menu is being redisigned now.** <br />
 > You can view the old version, or come back in a couple of days.
 
 # About me
@@ -20,22 +20,22 @@ More will be added later.
 
 ### Good Level
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Icon" width=40px >](https://python.org)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask Icon" width=40px>](https://flask.palletsprojects.com/en/2.1.x/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="PyQt Icon" width=40px>](https://doc.qt.io/qtforpython/)
+[<img src="src/python-original.svg" alt="Python Icon" width=40px>](https://python.org)
+[<img src="src/flask-original.svg" alt="Flask Icon" width=40px>](https://flask.palletsprojects.com/en/2.1.x/)
+[<img src="src/qt-original.svg" alt="PyQt Icon" width=40px>](https://doc.qt.io/qtforpython/)
 <br />
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5 Icon" width=40px>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3 Icon" width=40px>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="src/html5-original.svg" alt="HTML5 Icon" width=40px>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="src/css3-original.svg" alt="CSS3 Icon" width=40px>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### Medium Level
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Icon" width=40px>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron Icon" width=40px>](https://www.electronjs.org/)
+[<img src="src/javascript-original.svg" alt="JavaScript Icon" width=40px>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="src/electron-original.svg" alt="Electron Icon" width=40px>](https://www.electronjs.org/)
 
 ### Minimal Level
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="CSharp Icon" width=40px>](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET Icon" width=40px>](https://dotnet.microsoft.com/en-us/)
+[<img src="src/csharp-original.svg" alt="CSharp Icon" width=40px>](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[<img src="src/dot-net-original-wordmark.svg" alt=".NET Icon" width=40px>](https://dotnet.microsoft.com/en-us/)
 
 ## About my projects
 
