@@ -1,6 +1,9 @@
 > **This page just got redesigned.** <br />
 > If you have any questions or suggestions, contant me or create an issue.
 
+> **On a vacation** <br />
+> I might often be offline, but you can always just leave me an email.
+
 # About me
 
 Hi, I'm German, and I'm a high-school math student in Moscow, Russia. I love coding and participating in programming contests.
