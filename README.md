@@ -1,4 +1,6 @@
-> **This page just got redesigned.** <br />
+[View in Russian (RU)](README-RU.md)
+
+> **This page just got redesigned** <br />
 > If you have any questions or suggestions, [contant me](#contact-me-envelope) or [create an issue](https://github.com/germanivanov0719/germanivanov0719/issues).
 
 > **On a vacation untill Jun 17, 2022** <br />
