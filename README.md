@@ -46,7 +46,7 @@ More will be added later.
 ### Minimal Level
 
 [<img src="src/csharp-original.svg" alt="CSharp Icon" width=40px>](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[<img src="src/dot-net-original-wordmark.svg" alt=".NET Icon" width=40px>](https://dotnet.microsoft.com/en-us/)
+[<img src="src/dot-net-plain-wordmark.svg" alt=".NET Icon" width=40px>](https://dotnet.microsoft.com/en-us/)
 
 ## Contact me :envelope:
 
