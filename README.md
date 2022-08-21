@@ -27,29 +27,28 @@ Hi, I'm German, and I'm a high-school math student in Moscow, Russia. I love cod
 
 More will be added later.
 
-## Languages and Frameworks (sorted by my knowledge)
+## Languages and Frameworks
 
-### Good Level
+| Proficiency | Languages     | Frameworks      |
+| ----------- | ------------- | --------------- |
+| Excellent   | [Python]      | [Flask], [PyQt] |
+| Good        | [HTML], [CSS] | —               |
+| Medium      | [JS]          | [Electron]      |
+| Low         | [C#]          | [WPF] ([.NET])  |
+| Low         | [Dart]        | [Flutter]       |
 
-[<img src="src/python-original.svg" alt="Python Icon" width=40px>](https://python.org)
-[<img src="src/flask-original.svg" alt="Flask Icon" width=40px>](https://flask.palletsprojects.com/en/2.1.x/)
-[<img src="src/qt-original.svg" alt="PyQt Icon" width=40px>](https://doc.qt.io/qtforpython/)
-
-[<img src="src/html5-original.svg" alt="HTML5 Icon" width=40px>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src="src/css3-original.svg" alt="CSS3 Icon" width=40px>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-### Medium Level
-
-[<img src="src/javascript-original.svg" alt="JavaScript Icon" width=40px>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="src/electron-original.svg" alt="Electron Icon" width=40px>](https://www.electronjs.org/)
-
-### Minimal Level
-
-[<img src="src/csharp-original.svg" alt="CSharp Icon" width=40px>](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[<img src="src/dot-net-plain-wordmark.svg" alt=".NET Icon" width=40px>](https://dotnet.microsoft.com/en-us/)
-
-[<img src="src/dart-original.svg" alt="Flutter Icon" width=40px>](https://dart.dev/)
-[<img src="src/flutter-original.svg" alt="Flutter Icon" width=40px>](https://flutter.dev/)
+[python]: https://www.python.org "Python"
+[flask]: https://flask.palletsprojects.com/ "Flask"
+[pyqt]: https://doc.qt.io/qtforpython/ "PyQt"
+[html]: https://developer.mozilla.org/en-US/docs/Web/HTML "HTML"
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS "CSS"
+[js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript"
+[electron]: https://www.electronjs.org "Electron"
+[c#]: https://docs.microsoft.com/en-us/dotnet/csharp/ "C#"
+[wpf]: https://docs.microsoft.com/en-us/visualstudio/designers/getting-started-with-wpf "WPF"
+[.net]: https://dotnet.microsoft.com/en-us/ ".NET"
+[dart]: https://dart.dev "Dart"
+[flutter]: https://flutter.dev "Flutter"
 
 ## Contact me :envelope:
 
