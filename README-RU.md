@@ -24,6 +24,7 @@
 ## Лучшие проекты :computer:
 
 - [Приложение Cryptography](https://github.com/germanivanov0719/Cryptography) (PyQt)
+- [Grades](https://github.com/germanivanov0719/grades) (Web, PWA)
 - [Racing](https://github.com/germanivanov0719/Racing) (Pygame)
 - [Touch Typing Tutorial](https://github.com/germanivanov0719/touch-typing-tutorial) (PyQt)
 
