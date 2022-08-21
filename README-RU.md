@@ -9,10 +9,12 @@
 
 ## Образование :books:
 
-- ### Лицей Академии Яндекса, 2020–2022
-  Python, PyQt, Pygame, Flask
+- ### Лицей Академии Яндекса, Сентябрь 2020 – Апрель 2022
 
-## Achievements :trophy:
+  - Studied: [Python], [PyQt], [Pygame], [Flask]
+  - Certificates: [2101 65166](certificates/YL1-original.jpeg) (Year 1), [2202 65166](certificates/YL2-original.jpeg) (Year 2)
+
+## Достижения :trophy:
 
 - ### ВсОШ по Информатика (II этап), 2021–2022
   Сертификат: [281 9768-56587](certificates/VsOSh8th.pdf)
@@ -25,30 +27,37 @@
 - [Racing](https://github.com/germanivanov0719/Racing) (Pygame)
 - [Touch Typing Tutorial](https://github.com/germanivanov0719/touch-typing-tutorial) (PyQt)
 
-Скоро будут добавленны и другие.
+Скоро будут добавлены и другие.
 
 ## Языки и Фреймворки (отсортированы по уровню знаний)
 
-### Хороший уровень
+## Languages and Frameworks
 
-[<img src="src/python-original.svg" alt="Python Icon" width=40px>](https://python.org)
-[<img src="src/flask-original.svg" alt="Flask Icon" width=40px>](https://flask.palletsprojects.com/en/2.1.x/)
-[<img src="src/qt-original.svg" alt="PyQt Icon" width=40px>](https://doc.qt.io/qtforpython/)
+| Знания  | Языки         | Фреймворки                |
+| ------- | ------------- | ------------------------- |
+| Отлично | [Python]      | [Flask], [PyQt], [Pygame] |
+| Хорошо  | [HTML], [CSS] | [Bootstrap]               |
+| Средне  | [JS]          | [Electron]                |
+| Слабо   | [C#]          | [WPF] ([.NET])            |
+| Слабо   | [Dart]        | [Flutter]                 |
 
-[<img src="src/html5-original.svg" alt="HTML5 Icon" width=40px>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src="src/css3-original.svg" alt="CSS3 Icon" width=40px>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-### Средний уровень
-
-[<img src="src/javascript-original.svg" alt="JavaScript Icon" width=40px>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="src/electron-original.svg" alt="Electron Icon" width=40px>](https://www.electronjs.org/)
-
-### Минимальный уровень
-
-[<img src="src/csharp-original.svg" alt="CSharp Icon" width=40px>](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[<img src="src/dot-net-plain-wordmark.svg" alt=".NET Icon" width=40px>](https://dotnet.microsoft.com/en-us/)
+[python]: https://www.python.org "Python"
+[flask]: https://flask.palletsprojects.com/ "Flask"
+[pyqt]: https://doc.qt.io/qtforpython/ "PyQt"
+[pygame]: https://www.pygame.org/ "Pygame"
+[html]: https://developer.mozilla.org/en-US/docs/Web/HTML "HTML"
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS "CSS"
+[bootstrap]: https://getbootstrap.com/ "Bootstrap"
+[js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript"
+[electron]: https://www.electronjs.org "Electron"
+[c#]: https://docs.microsoft.com/en-us/dotnet/csharp/ "C#"
+[wpf]: https://docs.microsoft.com/en-us/visualstudio/designers/getting-started-with-wpf "WPF"
+[.net]: https://dotnet.microsoft.com/en-us/ ".NET"
+[dart]: https://dart.dev "Dart"
+[flutter]: https://flutter.dev "Flutter"
 
 ## Связаться со мной :envelope:
 
 - Почта: germanivanov0719@gmail.com
 - Telegram: [@germanivanov0719](https://t.me/germanivanov0719)
+- Discord: [germanivanov0719#3148](https://discord.com/users/germanivanov0719#3148) (Сначала отправьте запрос в друзья)

@@ -5,12 +5,14 @@
 
 # About me
 
-Hi, I'm German, and I'm a high-school math student in Moscow, Russia. I love coding and participating in programming contests.
+Hi, I'm German, and I'm a high-school student in a math class in Moscow, Russia. I love coding and participating in programming contests.
 
 ## Education :books:
 
-- ### Yandex Academy Lyceum, 2020–2022
-  Python, PyQt, Pygame, Flask
+- ### Yandex Academy Lyceum, September 2020 – April 2022
+
+  - Studied: [Python], [PyQt], [Pygame], [Flask]
+  - Certificates: [2101 65166](certificates/YL1-original.jpeg) (Year 1), [2202 65166](certificates/YL2-original.jpeg) (Year 2)
 
 ## Achievements :trophy:
 
@@ -24,24 +26,25 @@ Hi, I'm German, and I'm a high-school math student in Moscow, Russia. I love cod
 - [Cryptography App](https://github.com/germanivanov0719/Cryptography) (PyQt)
 - [Racing](https://github.com/germanivanov0719/Racing) (Pygame)
 - [Touch Typing Tutorial](https://github.com/germanivanov0719/touch-typing-tutorial) (PyQt)
-
-More will be added later.
+- More coming soon…
 
 ## Languages and Frameworks
 
-| Proficiency | Languages     | Frameworks      |
-| ----------- | ------------- | --------------- |
-| Excellent   | [Python]      | [Flask], [PyQt] |
-| Good        | [HTML], [CSS] | —               |
-| Medium      | [JS]          | [Electron]      |
-| Low         | [C#]          | [WPF] ([.NET])  |
-| Low         | [Dart]        | [Flutter]       |
+| Proficiency | Languages     | Frameworks                |
+| ----------- | ------------- | ------------------------- |
+| Excellent   | [Python]      | [Flask], [PyQt], [Pygame] |
+| Good        | [HTML], [CSS] | [Bootstrap]               |
+| Medium      | [JS]          | [Electron]                |
+| Low         | [C#]          | [WPF] ([.NET])            |
+| Low         | [Dart]        | [Flutter]                 |
 
 [python]: https://www.python.org "Python"
 [flask]: https://flask.palletsprojects.com/ "Flask"
 [pyqt]: https://doc.qt.io/qtforpython/ "PyQt"
+[pygame]: https://www.pygame.org/ "Pygame"
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML "HTML"
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS "CSS"
+[bootstrap]: https://getbootstrap.com/ "Bootstrap"
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript"
 [electron]: https://www.electronjs.org "Electron"
 [c#]: https://docs.microsoft.com/en-us/dotnet/csharp/ "C#"
@@ -54,3 +57,4 @@ More will be added later.
 
 - Email: germanivanov0719@gmail.com
 - Telegram: [@germanivanov0719](https://t.me/germanivanov0719)
+- Discord: [germanivanov0719#3148](https://discord.com/users/germanivanov0719#3148) (Send friend request first)
