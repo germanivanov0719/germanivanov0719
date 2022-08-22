@@ -1,6 +1,6 @@
 # System files
 **/.DS_Store
 
-# IDE trash
+# IDE settings and cache
 **/.vscode
 **/.idea
