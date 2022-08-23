@@ -5,7 +5,7 @@
 
 # About me
 
-Hi, I'm German, and I'm a high-school student in a math class in Moscow, Russia. I love coding and participating in programming contests.
+Hi, I'm German, and I'm a high-school student in a math class in Moscow, Russia. I love coding and participating in programming contests (if you want to participate in a team olympiad with me and you live in Moscow, contact me).
 
 ## Education :books:
 
