@@ -1,8 +1,5 @@
 [View in Russian (RU)](README-RU.md)
 
-> **Looking for a partner to participate in a team olympiad with** <br />
-> If you happen to live in Moscow and want to take part in a Russian olympiad, [contant me](#contact-me-envelope).
-
 # About me
 
 Hi, I'm German, and I'm a high-school student in a math class in Moscow, Russia. I love coding and participating in programming contests.
