@@ -11,6 +11,11 @@ Hi, I'm German, and I'm a high-school student in a math class in Moscow, Russia.
   - Studied: [Python], [PyQt], [Pygame], [Flask]
   - Certificates: [2101 65166](certificates/YL1-original.jpeg) (Year 1), [2202 65166](certificates/YL2-original.jpeg) (Year 2)
 
+- ### Yandex Academy Intensive, October 2022 – Present
+
+  - Studied: [HTML], [CSS], [JavaScript], [React]
+  - Specialization: Frontend Development
+
 ## Achievements :trophy:
 
 - ### All-Russian Informatics Olympiad (II stage), 2021–2022
@@ -28,11 +33,11 @@ Hi, I'm German, and I'm a high-school student in a math class in Moscow, Russia.
 
 ## Languages and Frameworks
 
-| Proficiency | Languages     | Frameworks                |
+| Proficiency | Languages     | Frameworks/Libraries      |
 | ----------- | ------------- | ------------------------- |
 | Excellent   | [Python]      | [Flask], [PyQt], [Pygame] |
 | Good        | [HTML], [CSS] | [Bootstrap]               |
-| Medium      | [JS]          | [Electron]                |
+| Medium      | [JavaScript]  | [Electron], [React]       |
 | Low         | [C#]          | [WPF] ([.NET])            |
 | Low         | [Dart]        | [Flutter]                 |
 
@@ -43,13 +48,14 @@ Hi, I'm German, and I'm a high-school student in a math class in Moscow, Russia.
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML "HTML"
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS "CSS"
 [bootstrap]: https://getbootstrap.com/ "Bootstrap"
-[js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript"
+[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript"
 [electron]: https://www.electronjs.org "Electron"
 [c#]: https://docs.microsoft.com/en-us/dotnet/csharp/ "C#"
 [wpf]: https://docs.microsoft.com/en-us/visualstudio/designers/getting-started-with-wpf "WPF"
 [.net]: https://dotnet.microsoft.com/en-us/ ".NET"
 [dart]: https://dart.dev "Dart"
 [flutter]: https://flutter.dev "Flutter"
+[react]: https://reactjs.org/ "React"
 
 ## Contact me :envelope:
 
