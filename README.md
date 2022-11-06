@@ -4,7 +4,7 @@
 
 # About me
 
-Hi, I'm German, and I'm a 15-year-old high-school student in a math class in Moscow, Russia. I love coding and participating in programming contests. Right now I'm spending most of my time studying at school and Yandex Academy, and preparing for olympiads.  
+Hi, I'm German, and I'm a 15-year-old high-school student in a math class in Moscow, Russia. I love coding and participating in programming contests. Right now I'm spending most of my time studying at school and Yandex Academy, and preparing for olympiads. No major projects are being developed as of now, but if you have any interesting ideas — feel free to contact me.
 
 ## Education :books:
 
