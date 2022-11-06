@@ -1,6 +1,6 @@
 [View in Russian (RU)](README-RU.md)
 
-> Currently looking for a partner to participate in a team competition with. If you are interesed in working with me and also happen to be a student in Moscow — [text](https://t.me/germanivanov0719) or [email](germanivanov0719@gmail.com) me, where we can discuss any details.
+> Currently looking for a partner to participate in a team competition with. If you are interesed in working with me and also happen to be a student in Moscow — [text](https://t.me/germanivanov0719) or [email](germanivanov0719@gmail.com) me, and then we can discuss any details.
 
 # About me
 
