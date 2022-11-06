@@ -1,8 +1,10 @@
 [View in Russian (RU)](README-RU.md)
 
+> Currently looking for a partner to participate in a team competition with. If you are interesed in working with me and also happen to be a student in Moscow — [text](https://t.me/germanivanov0719) or [email](germanivanov0719@gmail.com) me, where we can discuss any details.
+
 # About me
 
-Hi, I'm German, and I'm a high-school student in a math class in Moscow, Russia. I love coding and participating in programming contests.
+Hi, I'm German, and I'm a 15-year-old high-school student in a math class in Moscow, Russia. I love coding and participating in programming contests. Right now I'm spending most of my time studying at school and Yandex Academy, and preparing for olympiads.  
 
 ## Education :books:
 
