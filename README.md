@@ -1,6 +1,10 @@
 [View in Russian (RU)](README-RU.md)
 
-> Currently looking for a partner to participate in a team competition with. If you are interesed in working with me and also happen to be a student in Moscow — [text](https://t.me/germanivanov0719) or [email](germanivanov0719@gmail.com) me, and then we can discuss any details.
+> **Currently looking for a partner to participate in a team competition with** <br/>
+> If you are interesed in working with me and also happen to be a student in Moscow — [text](https://t.me/germanivanov0719) or [email](germanivanov0719@gmail.com) me, and then we can discuss any details.
+
+> **Outdated** <br/>
+> This page will get updated soon
 
 # About me
 
@@ -33,7 +37,7 @@ Hi, I'm German, and I'm a 15-year-old high-school student in a math class in Mos
 - [Touch Typing Tutorial](https://github.com/germanivanov0719/touch-typing-tutorial) (PyQt)
 - More coming soon…
 
-## Languages and Frameworks
+## Languages and Frameworks :hammer_and_wrench:
 
 | Proficiency | Languages     | Frameworks/Libraries      |
 | ----------- | ------------- | ------------------------- |
