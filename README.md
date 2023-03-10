@@ -68,3 +68,5 @@ Hi, I'm German, and I'm a 15-year-old high-school student in a math class in Mos
 - Email: germanivanov0719@gmail.com
 - Telegram: [@germanivanov0719](https://t.me/germanivanov0719)
 - Discord: [germanivanov0719#3148](https://discord.com/users/germanivanov0719#3148) (Send friend request first)
+
+<meta name="google-site-verification" content="QPJ2nouPv-S9A8-SgnIWGGJjMwo6TAL0WURUlQeGXEQ" />
