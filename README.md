@@ -32,7 +32,7 @@ Hi, I'm German, and I'm a 15-year-old high-school student in a math class in Mos
 ## Best Projects :computer:
 
 - [Cryptography App](https://github.com/germanivanov0719/Cryptography) (PyQt)
-- [Grades](https://github.com/germanivanov0719/grades) (Web, PWA)
+- [Grades](https://germanivanov0719.github.io/grades/index.html) (Web, PWA)
 - [Racing](https://github.com/germanivanov0719/Racing) (Pygame)
 - [Touch Typing Tutorial](https://github.com/germanivanov0719/touch-typing-tutorial) (PyQt)
 - More coming soon…
