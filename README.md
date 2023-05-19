@@ -1,10 +1,10 @@
 [View in Russian (RU)](README-RU.md)
 
 > **Currently looking for a partner to participate in a team competition with** <br/>
-> If you are interesed in working with me and also happen to be a student in Moscow — [text](https://t.me/germanivanov0719) or [email](germanivanov0719@gmail.com) me, and then we can discuss any details.
+> If you are interesed in working with me and also happen to be a high school student in Moscow — [text](https://t.me/germanivanov0719) or [email](germanivanov0719@gmail.com) me to discuss any details.
 
 > **Outdated** <br/>
-> This page will get updated soon
+> This page will get updated ~soon~ sometime in the future. Soon is taking much longer than I anticipated.
 
 # About me
 
