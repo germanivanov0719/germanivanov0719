@@ -1,14 +1,14 @@
-[View in Russian (RU)](README-RU.md)
+<!-- [View in Russian (RU)](README-RU.md) -->
 
-> **Currently looking for a partner to participate in a team competition with** <br/>
-> If you are interesed in working with me and also happen to be a high school student in Moscow — [text](https://t.me/germanivanov0719) or [email](germanivanov0719@gmail.com) me to discuss any details.
+> **Currently looking for a teammate for my DANO team.** <br/>
+> If you are 15–18 y.o, are interested in data analysis, and can go to Moscow for a week in December 2023, [contact me](#contact-me-envelope).
 
-> **Outdated** <br/>
-> This page will get updated ~soon~ sometime in the future. Soon is taking much longer than I anticipated.
+> **Just updated this page** <br/>
+> If you notice any mistakes, [create an Issue](https://github.com/germanivanov0719/germanivanov0719/issues/new).
 
 # About me
 
-Hi, I'm German, and I'm a 15-year-old high-school student in a math class in Moscow, Russia. I love coding and participating in programming contests. Right now I'm spending most of my time studying at school and Yandex Academy, and preparing for olympiads. No major projects are being developed as of now, but if you have any interesting ideas — feel free to contact me.
+Hi, I'm German, and I'm a 15-year-old high-school student in a math class in Moscow, Russia. I love coding, data analysis, and programming contests.
 
 ## Education :books:
 
@@ -24,10 +24,20 @@ Hi, I'm German, and I'm a 15-year-old high-school student in a math class in Mos
 
 ## Achievements :trophy:
 
+- ### DANO Hackathon, ITMO 2023
+
+  [Certificate](certificates/DANO-ITMO-2023.pdf)
+
+- ### Data Analysis National Olympiad (DANO) by HSE, 2022
+
+  [Certificate](certificates/DANO-2022.pdf), [Check here](https://et.hse.ru/mod/customcert/verify_certificate.php?contextid=1447273&code=5zgKFLyGBy&qrcode=1)
+
 - ### All-Russian Informatics Olympiad (II stage), 2021–2022
-  Certificate: [281 9768-56587](certificates/VsOSh8th.pdf)
+
+  [Certificate 281 9768-56587](certificates/VsOSh8th.pdf)
+
 - ### All-Russian Informatics Olympiad (II stage), 2020–2021
-  Certificate: [226 8144-44177](certificates/VsOSh7th.pdf)
+  [Certificate 226 8144-44177](certificates/VsOSh7th.pdf)
 
 ## Best Projects :computer:
 
@@ -39,18 +49,19 @@ Hi, I'm German, and I'm a 15-year-old high-school student in a math class in Mos
 
 ## Languages and Frameworks :hammer_and_wrench:
 
-| Proficiency | Languages     | Frameworks/Libraries      |
-| ----------- | ------------- | ------------------------- |
-| Excellent   | [Python]      | [Flask], [PyQt], [Pygame] |
-| Good        | [HTML], [CSS] | [Bootstrap]               |
-| Medium      | [JavaScript]  | [Electron], [React]       |
-| Low         | [C#]          | [WPF] ([.NET])            |
-| Low         | [Dart]        | [Flutter]                 |
+| Proficiency | Languages     | Frameworks/Libraries                |
+| ----------- | ------------- | ----------------------------------- |
+| Excellent   | [Python]      | [Flask], [PyQt], [Pygame], [Pandas] |
+| Good        | [HTML], [CSS] | [Bootstrap]                         |
+| Medium      | [JavaScript]  | [Electron], [React]                 |
+| Low         | [C#]          | [WPF] ([.NET])                      |
+| Low         | [Dart]        | [Flutter]                           |
 
 [python]: https://www.python.org "Python"
 [flask]: https://flask.palletsprojects.com/ "Flask"
 [pyqt]: https://doc.qt.io/qtforpython/ "PyQt"
 [pygame]: https://www.pygame.org/ "Pygame"
+[pandas]: https://pandas.pydata.org/docs/ "Pandas"
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML "HTML"
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS "CSS"
 [bootstrap]: https://getbootstrap.com/ "Bootstrap"
@@ -65,10 +76,6 @@ Hi, I'm German, and I'm a 15-year-old high-school student in a math class in Mos
 
 ## Contact me :envelope:
 
-- Email: germanivanov0719@gmail.com
+- Email: [germanivanov0719@gmail.com](mailto:germanivanov0719@gmail.com)
 - Telegram: [@germanivanov0719](https://t.me/germanivanov0719)
 - Discord: [germanivanov0719#3148](https://discord.com/users/germanivanov0719#3148) (Send friend request first)
-
-<head>
-<meta name="google-site-verification" content="QPJ2nouPv-S9A8-SgnIWGGJjMwo6TAL0WURUlQeGXEQ" />
-</head>
