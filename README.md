@@ -1,8 +1,5 @@
 <!-- [View in Russian (RU)](README-RU.md) -->
 
-> **Currently looking for a teammate for my DANO team.** <br/>
-> If you are 15–18 y.o, are interested in data analysis, and can go to Moscow for a week in December 2023, [contact me](#contact-me-envelope).
-
 > **Just updated this page** <br/>
 > If you notice any mistakes, [create an Issue](https://github.com/germanivanov0719/germanivanov0719/issues/new).
 
