@@ -5,36 +5,34 @@
 
 # About me
 
-Hi, I'm German, and I'm a 15-year-old high-school student in a math class in Moscow, Russia. I love coding, data analysis, and programming contests.
+Hi, I'm German, and I'm a 15-year-old high-school student in an online [CPM School](https://xn----7sb3aehik9cm.xn--p1ai/) in Moscow, Russia. I do frontend (and some backend) development and data science. Also trying to get into machine learning and studying algorithms.
 
 ## Education :books:
+
+- ### Yandex Intensive on Machine Learning, started in February 2024
+
+  - Still studying
+
+- ### Yandex Intensive on Frontend Development, October 2022 – December 2022
+
+  - Studied: [HTML], [CSS], [JavaScript], [React]
+  - Certificate: [2207 65166](https://lms.yandex.ru/certificate/check/?certNumber=220765166&lastName=%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2)
 
 - ### Yandex Academy Lyceum, September 2020 – April 2022
 
   - Studied: [Python], [PyQt], [Pygame], [Flask]
-  - Certificates: [2101 65166](certificates/YL1-original.jpeg) (Year 1), [2202 65166](certificates/YL2-original.jpeg) (Year 2)
+  - Certificates: [2101 65166](./certificates/Yandex-Lyceum/YL1.pdf) (Year 1), [2202 65166](./certificates/Yandex-Lyceum/YL2.pdf) (Year 2)
 
-- ### Yandex Academy Intensive, October 2022 – Present
-
-  - Studied: [HTML], [CSS], [JavaScript], [React]
-  - Specialization: Frontend Development
+- ### iOS development for beginners (Tinkoff)
+  - Still studying, [link](https://fintech.tinkoff.ru/school/basic/ios/)
 
 ## Achievements :trophy:
 
-- ### DANO Hackathon, ITMO 2023
+- ### Data Analysis National Olympiad (DANO) by HSE
+  - [DANO 2023 Winner (1st degree)](./certificates/DANO/DANO-2023.pdf)
+  - [DANO 2022 Winner (3rd degree)](./certificates/DANO/DANO-2022.pdf)
+  - Hackathons: [May 2023, ITMO (2nd place)](./certificates/DANO/DANO-hack-2023-05-ITMO.pdf), [September 2023, HSE Saint Petersburg (2nd place)](./certificates/DANO/DANO-hack-2023-09-HSE-Spb.pdf)
 
-  [Certificate](certificates/DANO-ITMO-2023.pdf)
-
-- ### Data Analysis National Olympiad (DANO) by HSE, 2022
-
-  [Certificate](certificates/DANO-2022.pdf), [Check here](https://et.hse.ru/mod/customcert/verify_certificate.php?contextid=1447273&code=5zgKFLyGBy&qrcode=1)
-
-- ### All-Russian Informatics Olympiad (II stage), 2021–2022
-
-  [Certificate 281 9768-56587](certificates/VsOSh8th.pdf)
-
-- ### All-Russian Informatics Olympiad (II stage), 2020–2021
-  [Certificate 226 8144-44177](certificates/VsOSh7th.pdf)
 
 ## Best Projects :computer:
 
@@ -71,8 +69,12 @@ Hi, I'm German, and I'm a 15-year-old high-school student in a math class in Mos
 [flutter]: https://flutter.dev "Flutter"
 [react]: https://reactjs.org/ "React"
 
-## Contact me :envelope:
+## Contacts and Social :envelope:
 
 - Email: [germanivanov0719@gmail.com](mailto:germanivanov0719@gmail.com)
 - Telegram: [@germanivanov0719](https://t.me/germanivanov0719)
-- Discord: [germanivanov0719#3148](https://discord.com/users/germanivanov0719#3148) (Send friend request first)
+- Discord: [@germanivanov0719](https://discord.com/users/germanivanov0719)
+- Codeforces: [germanivanov0719](https://codeforces.com/profile/germanivanov0719)
+- Telegram Channel: [Герман сливает DANO](https://t.me/gaivanov)
+
+You can also find me on most other social media as @germanivanov0719
