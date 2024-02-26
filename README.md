@@ -1,11 +1,11 @@
 <!-- [View in Russian (RU)](README-RU.md) -->
 
-> **Just updated this page** <br/>
-> If you notice any mistakes, [create an Issue](https://github.com/germanivanov0719/germanivanov0719/issues/new).
+<!-- > **Just updated this page** <br/>
+> If you notice any mistakes, [create an Issue](https://github.com/germanivanov0719/germanivanov0719/issues/new). -->
 
 # About me
 
-Hi, I'm German, and I'm a 15-year-old high-school student in an online [CPM School](https://xn----7sb3aehik9cm.xn--p1ai/) in Moscow, Russia. I do frontend (and some backend) development and data science. Also trying to get into machine learning and studying algorithms.
+Hi, I'm German, and I'm a 16-year-old high-school student in an online [CPM School](https://xn----7sb3aehik9cm.xn--p1ai/) in Moscow, Russia. I do frontend (and some backend) development and data science. Also trying to get into machine learning and studying algorithms.
 
 ## Education :books:
 
