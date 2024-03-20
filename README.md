@@ -5,7 +5,7 @@
 
 # About me
 
-Hi, I'm German, and I'm a 16-year-old high-school student in an online [CPM School](https://xn----7sb3aehik9cm.xn--p1ai/) in Moscow, Russia. I do frontend (and some backend) development and data science. Also trying to get into machine learning and studying algorithms.
+Hi, I'm German, and I'm a 16-year-old high-school student in an online [CPM School](https://xn----7sb3aehik9cm.xn--p1ai/) in Moscow, Russia. I do frontend (and some backend) development and data science. Right now I'm trying to get into machine learning.
 
 ## Education :books:
 
@@ -31,8 +31,7 @@ Hi, I'm German, and I'm a 16-year-old high-school student in an online [CPM Scho
 - ### Data Analysis National Olympiad (DANO) by HSE
   - [DANO 2023 Winner (1st degree)](./certificates/DANO/DANO-2023.pdf)
   - [DANO 2022 Winner (2nd degree)](./certificates/DANO/DANO-2022.pdf)
-  - Hackathons: [May 2023, ITMO (2nd place)](./certificates/DANO/DANO-hack-2023-05-ITMO.pdf), [September 2023, HSE Saint Petersburg (2nd place)](./certificates/DANO/DANO-hack-2023-09-HSE-Spb.pdf)
-
+  - Hackathons: [May 2023, ITMO (2nd place)](./certificates/DANO/DANO-hack-2023-05-ITMO.pdf), [September 2023, HSE Saint Petersburg (3rd place)](./certificates/DANO/DANO-hack-2023-09-HSE-Spb.pdf), [March 2024, NES (3rd place)](./certificates/DANO/DANO-hack-2024-03-NES.pdf)
 
 ## Best Projects :computer:
 
