@@ -9,10 +9,6 @@ Hi, I'm German, and I'm a 16-year-old high-school student in an online [CPM Scho
 
 ## Education :books:
 
-- ### Yandex Intensive on Machine Learning, started in February 2024
-
-  - Still studying
-
 - ### Yandex Intensive on Frontend Development, October 2022 – December 2022
 
   - Studied: [HTML], [CSS], [JavaScript], [React]
