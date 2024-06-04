@@ -5,7 +5,7 @@
 
 # About me
 
-Hi, I'm German, and I'm a 16-year-old high-school student in an online [CPM School](https://xn----7sb3aehik9cm.xn--p1ai/) in Moscow, Russia. I do frontend (and some backend) development and data science. Right now I'm trying to get into machine learning.
+Hi, I'm German, and I'm a 16-year-old high-school student in an online [CPM School](https:/школа-цпм.рф) in Moscow, Russia. I do frontend (and some backend) development and data science. Right now I'm trying to get into machine learning.
 
 ## Education :books:
 
