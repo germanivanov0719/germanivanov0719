@@ -77,3 +77,7 @@ Hi, I'm German, and I'm a 16-year-old high-school student in an online [CPM Scho
 - Telegram Channel: [Герман сливает DANO](https://t.me/gaivanov)
 
 You can also find me on most other social media as @germanivanov0719
+
+
+<!-- Verifications -->
+<a rel="me" href="https://mastodon.social/@germanivanov0719" hidden></a>
