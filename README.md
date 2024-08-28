@@ -31,7 +31,7 @@ Hi, I'm German, and I'm a 16-year-old high-school student in an online [CPM Scho
 - ### Data Analysis National Olympiad (DANO) by HSE
   - [DANO 2023 Winner (1st degree)](./certificates/DANO/DANO-2023.pdf)
   - [DANO 2022 Winner (2nd degree)](./certificates/DANO/DANO-2022.pdf)
-  - Hackathons: [May 2023, ITMO (2nd place)](./certificates/DANO/DANO-hack-2023-05-ITMO.pdf), [September 2023, HSE Saint Petersburg (3rd place)](./certificates/DANO/DANO-hack-2023-09-HSE-Spb.pdf), [March 2024, NES (1st place)](./certificates/DANO/DANO-hack-2024-03-NES.pdf), [April 2024, Innopolis (1st place)](./certificates/DANO/DANO-hack-2024-04-Innopolis.pdf), [May 2024, ITMO (1st place)](./certificates/DANO/DANO-hack-2024-05-ITMO.pdf)
+  - Hackathons: [May 2023, ITMO (2nd place)](./certificates/DANO/DANO-hack-2023-05-ITMO.pdf), [September 2023, HSE Saint Petersburg (3rd place)](./certificates/DANO/DANO-hack-2023-09-HSE-Spb.pdf), [March 2024, NES (1st place)](./certificates/DANO/DANO-hack-2024-03-NES.pdf), [April 2024, Innopolis (1st place)](./certificates/DANO/DANO-hack-2024-04-Innopolis.pdf), [May 2024, ITMO (1st place)](./certificates/DANO/DANO-hack-2024-05-ITMO.pdf), [August 2024, Perm (2nd place)](./certificates/DANO/DANO-hack-2024-08-Perm.pdf)
 
 ## Best Projects :computer:
 
