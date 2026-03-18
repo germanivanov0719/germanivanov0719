@@ -23,9 +23,6 @@ Hi, I'm German, and I'm a student in [HSE University]([https://hse.ru](https://s
   - Studied: [Python], [PyQt], [Pygame], [Flask]
   - Certificates: [2101 65166](./certificates/Yandex-Lyceum/YL1.pdf) (Year 1), [2202 65166](./certificates/Yandex-Lyceum/YL2.pdf) (Year 2)
 
-- ### iOS development for beginners (Tinkoff)
-  - Still studying, [link](https://fintech.tinkoff.ru/school/basic/ios/)
-
 ## Achievements :trophy:
 
 - ### Data Analysis National Olympiad (DANO) by HSE
