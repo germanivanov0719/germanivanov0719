@@ -5,7 +5,7 @@
 
 # About me
 
-Hi, I'm German, and I'm a student in [HSE University]([https://hse.ru](https://spb.hse.ru)) in St. Petersburg, Russia, actively trying to get into data science.
+Hi, I'm German, and I'm a student in [HSE University](https://spb.hse.ru) in St. Petersburg, Russia, actively trying to get into data science.
 
 ## Education :books:
 
